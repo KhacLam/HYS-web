@@ -1,0 +1,139 @@
+@font-face {
+    font-family: 'Font Awesome';
+    src: url('../fonts/FontAwesome.otf') format('truetype');
+}
+
+.manage {
+    padding: 10px 0;
+    .login,
+    .register {
+        font-size: 1rem
+    }
+    .login {
+        position: relative;
+        padding-right: 10px;
+        &:before {
+            position: absolute;
+            content: "";
+            width: 2px;
+            height: 100%;
+            background: black;
+            right: 0;
+        }
+    }
+}
+
+.noidung {
+    .card-box-b {
+        height: 200px;
+        margin-bottom: 30px
+    }
+}
+
+.lib {
+    margin: 3.75rem auto;
+    .nav {
+        margin-bottom: 1.875rem;
+        .nav-item {
+            .nav-link {
+                border-radius: 0;
+                padding: 0.5rem 1rem;
+                text-transform: uppercase;
+                &.active {
+                    background: #19e6d4;
+                }
+            }
+        }
+    }
+    .tab-content {
+        .tab-pane {
+            .lib-item {
+                margin-bottom: 1.875rem;
+            }
+        }
+    }
+}
+
+.lib-list {
+    .lib-item {
+        width: 25%;
+        padding: 10px
+    }
+}
+
+.introduce {
+    p {
+        font-size: 1.2rem
+    }
+    .destine {
+        padding: 1rem;
+        .detail {
+            &:before {
+                content: "\f111";
+                font-family: "Font Awesome";
+                font-size: .7rem;
+                padding-right: 1rem
+            }
+        }
+    }
+}
+
+.section-services {
+    .title-c {
+        font-size: 2rem
+    }
+    .service-item {
+        margin-top: 1.875rem;
+    }
+    i.fa {
+        font-size: 4rem
+    }
+}
+
+.section-agents {
+    .card-overlay {
+        padding: 1rem!important;
+    }
+    .card-body-d {
+        p {
+            font-size: .9rem!important
+        }
+    }
+}
+
+#slide-carousel {
+    position: relative;
+}
+
+.slick-arrow {
+    position: absolute;
+    top: 40%;
+    font-size: 0;
+    z-index: 1;
+    background: none;
+    border: none;
+    cursor: pointer;
+    &:focus {
+        outline: none
+    }
+}
+
+.slick-prev {
+    left: 10px;
+    &:before {
+        content: "\f053";
+        font-size: 2rem;
+        color: white;
+        font-family: "Font Awesome"
+    }
+}
+
+.slick-next {
+    right: 10px;
+    &:before {
+        content: "\f054";
+        color: white;
+        font-size: 2rem;
+        font-family: "Font Awesome"
+    }
+}

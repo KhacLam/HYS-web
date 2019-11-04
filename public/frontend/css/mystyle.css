@@ -1,0 +1,93 @@
+@font-face {
+  font-family: 'Font Awesome';
+  src: url("../fonts/FontAwesome.otf") format("truetype"); }
+.manage {
+  padding: 10px 0; }
+  .manage .login,
+  .manage .register {
+    font-size: 1rem; }
+  .manage .login {
+    position: relative;
+    padding-right: 10px; }
+    .manage .login:before {
+      position: absolute;
+      content: "";
+      width: 2px;
+      height: 100%;
+      background: black;
+      right: 0; }
+
+.noidung .card-box-b {
+  height: 200px;
+  margin-bottom: 30px; }
+
+.lib {
+  margin: 3.75rem auto; }
+  .lib .nav {
+    margin-bottom: 1.875rem; }
+    .lib .nav .nav-item .nav-link {
+      border-radius: 0;
+      padding: 0.5rem 1rem;
+      text-transform: uppercase; }
+      .lib .nav .nav-item .nav-link.active {
+        background: #19e6d4; }
+  .lib .tab-content .tab-pane .lib-item {
+    margin-bottom: 1.875rem; }
+
+.lib-list .lib-item {
+  width: 25%;
+  padding: 10px; }
+
+.introduce p {
+  font-size: 1.2rem; }
+.introduce .destine {
+  padding: 1rem; }
+  .introduce .destine .detail:before {
+    content: "\f111";
+    font-family: "Font Awesome";
+    font-size: .7rem;
+    padding-right: 1rem; }
+
+.section-services .title-c {
+  font-size: 2rem; }
+.section-services .service-item {
+  margin-top: 1.875rem; }
+.section-services i.fa {
+  font-size: 4rem; }
+
+.section-agents .card-overlay {
+  padding: 1rem !important; }
+.section-agents .card-body-d p {
+  font-size: 0.9rem !important; }
+
+#slide-carousel {
+  position: relative; }
+
+.slick-arrow {
+  position: absolute;
+  top: 40%;
+  font-size: 0;
+  z-index: 1;
+  background: none;
+  border: none;
+  cursor: pointer; }
+  .slick-arrow:focus {
+    outline: none; }
+
+.slick-prev {
+  left: 10px; }
+  .slick-prev:before {
+    content: "\f053";
+    font-size: 2rem;
+    color: white;
+    font-family: "Font Awesome"; }
+
+.slick-next {
+  right: 10px; }
+  .slick-next:before {
+    content: "\f054";
+    color: white;
+    font-size: 2rem;
+    font-family: "Font Awesome"; }
+
+/*# sourceMappingURL=mystyle.css.map */
