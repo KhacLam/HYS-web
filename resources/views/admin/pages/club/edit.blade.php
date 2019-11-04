@@ -30,6 +30,10 @@
         {!! Form::label('content', 'Nội dung') !!}
         {!! Form::textarea('content', $club->introduction, ['class'=>'form-control','id'=>'article-ckeditor']) !!}
     </div>
+    <div class="form-group">
+        {!! Form::label('image', 'Ảnh') !!}
+        {!! Form::file('image') !!}
+    </div>
     {!! Form::hidden('_method', 'PUT') !!}
     {!! Form::submit('Sửa', ['class'=>'btn btn-primary']) !!}
 {!! Form::close() !!}

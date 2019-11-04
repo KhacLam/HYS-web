@@ -37,15 +37,16 @@
     <div class="title-box">
       <h2 class="title-a">Chúng tôi là ai?</h2>
     </div>
-    <p>Câu lạc bộ Thanh niên khởi nghiệp Hà Nội (Hanoi Young Startup) là một tổ chức cộng đồng của thanh niên Thủ đô hoạt động theo Điều lệ của Hội Liên hiệp thanh niên Việt Nam Thành phố Hà Nội.</p>
+    <p>Câu lạc bộ Thanh niên khởi nghiệp Hà Nội (Hanoi Young Startup) là một tổ chức cộng đồng của thanh niên Thủ đô hoạt động theo Điều lệ của Hội Liên hiệp thanh niên Việt Nam Thành phố Hà Nội. Câu lạc bộ hoạt động theo Điều lệ của Hội LHTN Việt Nam và Quy chế của Trung tâm Đào tạo Tư duy Tài năng.
+    </p>
     <div class="destine">
       <h3 class="title">Sứ mệnh</h3>
-      <p class="detail">Tạo sự quan tâm, hưởng ứng của cộng đồng về khởi nghiệp của thế hệ trẻ đồng thời hỗ trợ Thanh niên lập thân, lập nghiệp, khởi nghiệp thành công.</p>
-    </div>
+      <p class="detail">Tạo sự quan tâm, hưởng ứng của cộng đồng về khởi nghiệp của thể hệ trẻ.</p>
+      <p class="detail">Đào tạo, tư vấn, hướng dẫn và tạo điều kiện thuận lợi để thanh niên Thủ đô khởi nghiệp thành công.</p>    </div>
     <div class="vision destine">
         <h3 class="title">Tầm nhìn</h3>
-        <p class="detail">Tạo sự quan tâm, hưởng ứng của cộng đồng về khởi nghiệp của thế hệ trẻ đồng thời hỗ trợ Thanh niên lập thân, lập nghiệp, khởi nghiệp thành công.</p>
-        <p class="detail">Tạo sự quan tâm, hưởng ứng của cộng đồng về khởi nghiệp của thế hệ trẻ đồng thời hỗ trợ Thanh niên lập thân, lập nghiệp, khởi nghiệp thành công.</p>
+        <p class="detail">Là tổ chức có uy tín về khởi nghiêp của tuổi trẻ, là đơn vị vững mạnh của Hội LHTN VN TP. Hà Nội.</p>
+        <p class="detail">Là nơi liên kết sức mạnh, tụ hôi tinh hoa về khởi nghiệp của tuổi trẻ Thủ đô.</p>
       </div>
   </section>
 
@@ -74,9 +75,7 @@
             </div>
             <div class="card-body-c">
               <p class="content-c">
-                Sed porttitor lectus nibh. Cras ultricies ligula sed magna dictum porta. Praesent sapien massa,
-                convallis a pellentesque
-                nec, egestas non nisi.
+                Hoạt động đào tạo, tư vấn phát triển bản thân, tư vấn và hỗ trợ các dự án khởi nghiệp được tổ chức thường xuyên, đều đặn nhằm giúp đỡ và giải đáp kịp thời những vướng mắc, khó khăn của thanh niên trên con đường lập thân lập nghiệp.
               </p>
             </div>
           </div>
@@ -93,9 +92,7 @@
             </div>
             <div class="card-body-c">
               <p class="content-c">
-                Nulla porttitor accumsan tincidunt. Curabitur aliquet quam id dui posuere blandit. Mauris blandit
-                aliquet elit, eget tincidunt
-                nibh pulvinar a.
+                HYS tự hào là một môi trường lành mạnh, bổ ích với đa dạng các hoạt động trải nghiệm thú vị, ý nghĩa, giúp hỗ trợ thanh niên rèn luyện và phát triển bản thân toàn diện một cách tốt nhất.
               </p>
             </div>
           </div>
@@ -112,9 +109,7 @@
             </div>
             <div class="card-body-c">
               <p class="content-c">
-                Sed porttitor lectus nibh. Cras ultricies ligula sed magna dictum porta. Praesent sapien massa,
-                convallis a pellentesque
-                nec, egestas non nisi.
+                Tổ chức các chuyến tham quan, du khảo tới các vùng miền của đất nước để cảm nhận và hiểu rõ hơn về mảnh đất quê hương, con người Việt Nam.
               </p>
             </div>
           </div>
@@ -131,9 +126,7 @@
             </div>
             <div class="card-body-c">
               <p class="content-c">
-                Sed porttitor lectus nibh. Cras ultricies ligula sed magna dictum porta. Praesent sapien massa,
-                convallis a pellentesque
-                nec, egestas non nisi.
+                Các hoạt động nhân đạo, tình nguyện vì cộng đồng, tình nguyện vì doanh nghiệp khởi nghiệp được diễn ra đều đặn hàng năm.
               </p>
             </div>
           </div>
@@ -150,9 +143,7 @@
             </div>
             <div class="card-body-c">
               <p class="content-c">
-                Sed porttitor lectus nibh. Cras ultricies ligula sed magna dictum porta. Praesent sapien massa,
-                convallis a pellentesque
-                nec, egestas non nisi.
+                HYS là nơi các bạn được thỏa sức giao lưu, kết bạn, là nơi cùng chia sẻ những khoảnh khắc ý nghĩa và hạnh phúc, cùng nhau kiến tạo nên Tuổi 20 đáng sống nhất.
               </p>
             </div>
           </div>
@@ -169,9 +160,7 @@
             </div>
             <div class="card-body-c">
               <p class="content-c">
-                Sed porttitor lectus nibh. Cras ultricies ligula sed magna dictum porta. Praesent sapien massa,
-                convallis a pellentesque
-                nec, egestas non nisi.
+                Cơ hội giao lưu, hỏi đáp cùng những người thành đạt, những người đang và đã khởi nghiệp thành công chắc chắn sẽ mang lại cho bạn nhiều bài học thú vị và bổ ích trên con đường kiến tạo sự nghiệp.
               </p>
             </div>
           </div>
@@ -201,7 +190,7 @@
         <div class="carousel-item-b">
             <div class="card-box-a card-shadow">
               <div class="img-box-a">
-                <img src="frontend/img/property-6.jpg" alt="" class="img-a img-fluid">
+                <img src="images/{{$item->club_image}}" alt="" class="img-a img-fluid" style="height: 250px">
               </div>
               <div class="card-overlay">
                 <div class="card-overlay-a-content">

@@ -30,6 +30,10 @@
         {!! Form::label('content', 'Nội dung') !!}
         {!! Form::textarea('content', '', ['class'=>'form-control','id'=>'article-ckeditor']) !!}
     </div>
+    <div class="form-group">
+        {!! Form::label('image', 'Ảnh') !!}
+        {!! Form::file('image') !!}
+    </div>
     {!! Form::submit('Thêm', ['class'=>'btn btn-primary']) !!}
 {!! Form::close() !!}
 

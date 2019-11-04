@@ -42,12 +42,22 @@ class ClubController extends Controller
             'num'=>'required',
             'content'=>'required',
         ]);
+        
+        $fileNameToStore = "";
+        if($request->hasFile('image')){
+            $fileNameEithEx = $request->file('image')->getClientOriginalName();
+            $fileNameToStore = time()."_".$fileNameEithEx;
+            $request->file('image')->move('images',$fileNameToStore);
+        }else{
+            $fileNameToStore = 'noimg.png';
+        }
 
         $club = new club;
         $club->club_name = $request->name;
         $club->area = $request->area;
         $club->numberOfMem = $request->num;
         $club->introduction = $request->content;
+        $club->club_image = $fileNameToStore;
         $club->club_slug = str_slug($request->name);
 
         $club->save();
@@ -93,11 +103,21 @@ class ClubController extends Controller
         //     'content'=>'required',
         // ]);
 
+        $fileNameToStore = "";
+        if($request->hasFile('image')){
+            $fileNameEithEx = $request->file('image')->getClientOriginalName();
+            $fileNameToStore = time()."_".$fileNameEithEx;
+            $request->file('image')->move('images',$fileNameToStore);
+        }else{
+            $fileNameToStore = 'noimg.png';
+        }
+
         $club = club::findOrFail($id);
         $club->club_name = $request->name;
         $club->area = $request->area;
         $club->numberOfMem = $request->num;
         $club->introduction = $request->content;
+        $club->club_image = $fileNameToStore;
         $club->club_slug = str_slug($request->name);
 
         $club->save();
